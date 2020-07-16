@@ -20,3 +20,6 @@ Niveau 2) In elke taakapplicatie kunnen specifieke gebruikers (rollen) worden ge
 
 ### Wat betekent dit voor de keten?
 - Autorisaties in de taakapplicaties binnen een keten moeten door de beheerders goed op elkaar afgestemd worden. De ketenregisseur (?) houdt hier toezicht op.
+
+### Praatplaat
+![Praatplaat](https://github.com/GemeenteUtrecht/ZGW-Intern/blob/master/architectuur/09062020%20-%20Decentrale%20autorisaties.png)
