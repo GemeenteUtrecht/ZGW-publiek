@@ -10,6 +10,7 @@ Medewerkers binnen de keten moeten bij de informatie kunnen die zij nodig hebben
 - Indien autorisatie niet afdoende in de (legacy) applicatie kan worden ingeregeld, wordt hier een maatwerkcomponent voor naast de taakapplicatie gezet.
 - We werken zoveel mogelijk vanuit rollen en groepen
 - Taakapplicaties worden aangesloten op de IAM voorziening
+- Bij het gebruik van documenten bij meerdere zaken, worden er kopieën van de documenten opgeslagen bij de betreffende zaken. (ipv te relateren naar dezelfde documenten)
 
 ### Waarop kunnen we dan autoriseren?
 
