@@ -23,3 +23,13 @@ Niveau 2) In elke taakapplicatie kunnen specifieke gebruikers (rollen) worden ge
 
 ### Praatplaat
 ![Praatplaat](https://github.com/GemeenteUtrecht/ZGW-Intern/blob/master/architectuur/09062020%20-%20Decentrale%20autorisaties.png)
+
+### Te beantwoorden vragen
+Dit document beschrijft hoe we ervoor zorgen dat, met het gekozen autorisatiestructuurscenario, over applicaties heen de gebruiker bij die gegevens kan waar hij bij mag en dat hij dan kan doen wat hij mag doen. Dus: een proces wordt ondersteund door meerdere applicaties. Elk van die applicaties is nodig om het proces uit te voeren. En elk van die applicaties kent een andere autorisatiestructuur. DE volgende vragen moeten beantwoord worden:
+1. Een gebruiker moet toegang hebben tot elk van die applicaties om zijn deel van het proces uit te voeren. Hoe doen we dat?
+2. Een gebruiker moet in elk van die applicaties alleen toegang hebben tot de zaaktypen waartoe die gebruiker vanuit zijn rol/functie gerechtigd is. Hoe doen we dat?
+3. Een gebruiker moet in elk van die applicaties alleen toegang hebben tot de vertrouwelijkheidsniveaus waartoe die gebruiker vanuit zijn rol/functie gerechtigd is. Hoe doen we dat?
+4. Een gebruiker moet in elk van die applicaties alleen die handelingen kunnen uitvoeren waartoe die gebruiker vanuit zijn rol/functie gerechtigd is. Hoe doen we dat?
+5. Hoe zorgen we dat in de driehoek zaaktype, vertrouwelijkheidsniveau en functionaliteit de juiste combinatie van rechten wordt uitgedeeld aan een gebruiker?
+6. Hoe gaan we om met de verscheidenheid aan autorisatiestructuren in applicaties? (Sommige applicaties zijn een open bak, sommigen hebben een zeer verfijnde structuur tot op veldniveau en alles wat ertussen zit) Welke technische en procedurele maatregelen kunnen we nemen? En welke (rest)risico's zijn er dan nog? 
+
