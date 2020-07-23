@@ -68,7 +68,7 @@ Door zowel functionaliteit als zaaktypes en vertrouwelijheid aan een rol te kopp
 6. Hoe gaan we om met de verscheidenheid aan autorisatiestructuren in applicaties? (Sommige applicaties zijn een open bak, sommigen hebben een zeer verfijnde structuur tot op veldniveau en alles wat ertussen zit) Welke technische en procedurele maatregelen kunnen we nemen? En welke (rest)risico's zijn er dan nog? 
 
 ### Antwoord:
-We proberen zoveel mogelijk rolgebaseerd te werken en taakapplicaties aan te sluiten op het IAM systeem. Het toekennen van toegang is dan een beheersd en beheerd proces waarbij vanuit het IAM systeem periodiek attestation oftewel herbevestigingsprocessen gestart kunnen worden. Hierbij kunnen leidinggevenden / proces en applicatieeigenaren controleren of de uitgegeven rechten nog kloppen. 
+We proberen zoveel mogelijk rolgebaseerd te werken en taakapplicaties aan te sluiten op het IAM systeem. Het toekennen van toegang is dan een beheerst en beheerd proces waarbij vanuit het IAM systeem periodiek attestation oftewel herbevestigingsprocessen gestart kunnen worden. Hierbij kunnen leidinggevenden / proces en applicatieeigenaren controleren of de uitgegeven rechten nog kloppen. 
 Voor applicaties die zich (nog) niet laten beheren vanuit een IAM systeem, moeten procedurele maatregelen genomen worden. 
 Afhankelijk van de classificatie van de applicatie wordt er 1 of meerdere keren per jaar de autorisaties binnen de verschillende applicaties gecontroleerd en gecorrigeerd.
 Via eisen in aanbestedingen zorgen we ervoor dat applicaties een rolgebaseerde autorisatiestructuur en het aansluiten op een IAM systeem ondersteunen.
