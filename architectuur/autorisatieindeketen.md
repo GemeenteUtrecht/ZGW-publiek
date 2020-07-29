@@ -84,3 +84,5 @@ Via eisen in aanbestedingen zorgen we ervoor dat applicaties een rolgebaseerde a
 - Autorisatierisico's binnen de keten
 
 - Autorisatieafspraken binnen de keten
+
+- Leesrechten op autorisatiebeheer?
