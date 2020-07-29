@@ -86,3 +86,5 @@ Via eisen in aanbestedingen zorgen we ervoor dat applicaties een rolgebaseerde a
 - Autorisatieafspraken binnen de keten
 
 - Leesrechten op autorisatiebeheer?
+
+- Controlemechanisme afgesproken?
