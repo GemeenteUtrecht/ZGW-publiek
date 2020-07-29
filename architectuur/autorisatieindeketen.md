@@ -77,7 +77,7 @@ Via eisen in aanbestedingen zorgen we ervoor dat applicaties een rolgebaseerde a
 
 - Overzicht van componenten en bijbehorende beheerders binnen de keten
 
-= Gebruikte rollen binnen de keten
+- Gebruikte rollen binnen de keten
 
 - Inzicht in zaaktypen en autorisaties binnen de keten
 
