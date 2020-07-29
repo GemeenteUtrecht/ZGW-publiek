@@ -72,3 +72,15 @@ We proberen zoveel mogelijk rolgebaseerd te werken en taakapplicaties aan te slu
 Voor applicaties die zich (nog) niet laten beheren vanuit een IAM systeem, moeten procedurele maatregelen genomen worden. 
 Afhankelijk van de classificatie van de applicatie wordt er 1 of meerdere keren per jaar de autorisaties binnen de verschillende applicaties gecontroleerd en gecorrigeerd.
 Via eisen in aanbestedingen zorgen we ervoor dat applicaties een rolgebaseerde autorisatiestructuur en het aansluiten op een IAM systeem ondersteunen.
+
+### Aanbieden aan ketenregisseur bij opleveren keten:
+
+- Overzicht van componenten en bijbehorende beheerders binnen de keten
+
+= Gebruikte rollen binnen de keten
+
+- Inzicht in zaaktypen en autorisaties binnen de keten
+
+- Autorisatierisico's binnen de keten
+
+- Autorisatieafspraken binnen de keten
