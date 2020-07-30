@@ -75,6 +75,12 @@ Via eisen in aanbestedingen zorgen we ervoor dat applicaties een rolgebaseerde a
 
 ### Aanbieden aan ketenregisseur bij opleveren keten:
 
+De rechten kunnen wel ingericht worden op de losse applicaties, maar dat betekent niet dat het consequent en goed geregeld is over de keten heen.
+
+Daarom willen we de ketenregisseur in stelling brengen om dit over de applicaties binnen een keten heen goed te kunnen regelen en te kunnen controleren.
+
+We denken dat daarvoor die punten opgeleverd moeten worden bij elke keten aan de ketenregisseur:
+
 - Overzicht van componenten en bijbehorende beheerders binnen de keten
 
 - Gebruikte rollen binnen de keten
