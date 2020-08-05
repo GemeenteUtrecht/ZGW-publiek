@@ -77,7 +77,7 @@ Via eisen in aanbestedingen zorgen we ervoor dat applicaties een rolgebaseerde a
 
 De rechten kunnen wel ingericht worden op de losse applicaties, maar dat betekent niet dat het consequent en goed geregeld is over de keten heen.
 
-Daarom willen we de ketenregisseur in stelling brengen om dit over de applicaties binnen een keten heen goed te kunnen regelen en te kunnen controleren.
+De verantwoordelijkheid voor het inzicht per applicatie ligt bij de applicatiebeheerders. Het verbinden van het inzicht over de applicaties heen, leggen we bij de ketenregisseur (is het voorstel). Dit betekent dat de ketenregisseur niet de kennis hoeft te hebben, maar wel afstemming moet organiseren tussen de applicatiebeheerders.
 
 We denken dat daarvoor die punten opgeleverd moeten worden bij elke keten aan de ketenregisseur:
 
