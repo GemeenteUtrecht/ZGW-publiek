@@ -5,6 +5,7 @@ Op het moment bestaan er voor functioneel beheer de volgende uitdagingen bij het
 2) Er is geen overzicht waar welke BPTL-tasks gebruikt worden. 
 
 3) BPMN modellen worden onoverzichtelijk
+
 Dit is gewoon iets wat gebeurt op het moment dat gemodelleerd wordt. Toch zou het wel fijn zijn om een manier te hebben om de overzichtelijkheid van een BPMN-model te bewaren. 
 
 4) Er is geen rem op maatwerk
