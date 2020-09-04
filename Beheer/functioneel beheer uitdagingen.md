@@ -4,9 +4,11 @@ Op het moment bestaan er voor functioneel beheer de volgende uitdagingen bij het
 
 ---> Dit is eigen aan flexibiliteit ervan. We zijn scherp bij de oplevering van losse onderdelen dat ze zo herbruikbaar mogelijk zijn (zoals adviseren/accorderen).
 
-1. Er is geen overzicht waar welke BPTL-tasks gebruikt worden. 
+* 1. Er is geen overzicht waar welke BPTL-tasks gebruikt worden. 
 
 ---> Als functioneel beheerder wil ik een overzicht kunnen maken van BPMN-modellen waarin een bepaalde BPTL-topic, servicetask, formulier of variabele gebruikt wordt. (in volgorde prio).
+---> Kunnen we geautomatiseerd documentatie genereren adhv camundaproces, waarin alleen gebruikte variaben voorkomen? 
+
 
 1. BPMN modellen worden onoverzichtelijk
     - Dit is gewoon iets wat gebeurt op het moment dat gemodelleerd wordt. Toch zou het wel fijn zijn om een manier te hebben om de overzichtelijkheid van een BPMN-model te bewaren. 
@@ -17,21 +19,23 @@ Op het moment bestaan er voor functioneel beheer de volgende uitdagingen bij het
 
 --> Met PO bespreken zodra dit teveel gaat gebeuren. Voor nu zelf scherp op blijven.
 
-1. Troubleshooten is lastig. Dit valt uiteen in twee delen:
+* 1. Troubleshooten is lastig. Dit valt uiteen in twee delen:
     - Er is op veel plekken logging aanwezig die mogelijk duidelijk maakt waarom iets niet werkt. Dit is moeilijk in samenhang te zien.
     - Bij het bouwen van formulieren, is het lastig om de precieze naam van variabelen te weten en hoe je deze moet gebruiken
     
----> Als functioneel beheerder wil ik bij alle errorlogging kunnen van alle componenten
-
----> Als functioneel beheerder wil ik één plek hebben waar ik alle errorlogging kan inkijken
+---> Als functioneel beheerder wil ik bij alle errorlogging kunnen van alle componenten. Dit is meer een randvoorwaarde.  Dit heeft alleen zin als we al die logging kunnen koppelen aan een bepaald incident of token. 
+---> Als functioneel beheerder wil ik één plek hebben waar ik alle errorlogging kan inkijken.
+Als hierboven: is een randvoorwaarde. We moeten denk ik kijken hoe we logging in beeld willen krijgen: rond een foutmelding in camunda, rond een errormelding vanuit forms, rond een specifieke token. In een specifiek tijdsvak.  
 
 1. Het is ondoorzichtig wat de effecten zijn van een wijziging op één plek. Stel dat een variabele in een proces binnen Camunda anders wordt genoemd, kan dit een probleem in formulieren geven. Helaas is het onduidelijk in welke formulieren deze variabele wordt gebruikt. Dit kan onvoorzienen effecten hebben.
 
 ---> Als functioneel beheerder wil ik alle documentatie op één plek en op dezelfde manier.
+Akkoord, maar lijkt nu nog te vroeg.
 
----> Als functioneel beheerder wil ik van elk onderdeel waar variabelen doorheen gaan de verplichte input en mogelijke output weten.
+* ---> Als functioneel beheerder wil ik van elk onderdeel waar variabelen doorheen gaan de verplichte input en mogelijke output weten.
+
 
 ---> Als functioneel beheerder wil ik in OpenForms gebruik maken van invulbare JSON-sjablonen.
+Weten we al of OpenForms het wordt? 
 
 ---> ALs functioneel beheerder wil ik documentatie over het gebruik van OpenForms met voorbeelden (van Json templates en variabele mapping).
-
