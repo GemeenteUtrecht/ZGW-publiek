@@ -39,3 +39,7 @@ Akkoord, maar lijkt nu nog te vroeg.
 Weten we al of OpenForms het wordt? 
 
 ---> ALs functioneel beheerder wil ik documentatie over het gebruik van OpenForms met voorbeelden (van Json templates en variabele mapping).
+
+1. Teveel (vastgelopen) procesinstances
+
+---> manier voor FB om proces instances te verwijderen
