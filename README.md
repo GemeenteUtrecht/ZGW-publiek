@@ -1,2 +1,2 @@
-# ZGW-Intern
-Deze repo is bedoeld om samen te werken aan stukken die niet publiek toegankelijk moeten zijn. 
+# ZGW-publiek
+Deze repo is bedoeld om samen te werken met andere gemeenten en partijen aan stukken die publiek toegankelijk mogen zijn. 
