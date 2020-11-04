@@ -1,5 +1,5 @@
 ## ZGW-publiek
-Deze repo is bedoeld om samen te werken met andere gemeenten en partijen aan stukken die publiek toegankelijk mogen zijn. 
+Deze repository is bedoeld om met andere gemeenten en partijen samen te werken aan documentatie en componenten voor het programma KIK. Het betreft alleen stukken die publiek toegankelijk mogen zijn. 
 
 ## Programma Klantgericht samenwerken in Ketens (KIK)
 Het KIK programma beoogt de dienstverlening naar de inwoners en ondernemers te verbeteren. 
