@@ -1,15 +1,22 @@
 ## ZGW-publiek
 Deze repository is bedoeld om met andere gemeenten en partijen samen te werken aan documentatie en componenten voor het programma KIK. Het betreft alleen stukken die publiek toegankelijk mogen zijn. 
 
-## Programma Klantgericht samenwerken in Ketens (KIK)
-Het KIK programma beoogt de dienstverlening naar de inwoners en ondernemers te verbeteren. 
+## Opgave Klantgericht samenwerken in Ketens (KIK)
+We willen dat bewoners en ondernemers te maken krijgen met één gemeente Utrecht.
 
-Om te zorgen dat de inwoners en ondernemers te maken krijgen met één gemeente Utrecht wordt er in het programma aandacht besteed aan het samenwerken in ketens. 
-De gemeentebreed vastgestelde ketens worden samen met de medewerkers uit die keten geanalyseerd en verbeterd. Zo wordt er gekeken naar manieren om de samenwerking tussen de organisatieonderdelen te verbeteren en processen en informatie te koppelen tot het ketens worden. 
+Om dit te bereiken moeten we beter samenwerken over de grenzen van organisatieonderdelen heen. Een nieuwe manier van samenwerken, ontworpen vanuit het perspectief van de klant. Hiervoor moeten we onze werkprocessen (her)inrichten en aan elkaar koppelen tot ketens.
 
+Per domein is al vastgesteld welke ketens dit moeten zijn. Deze gaan we in etappes analyseren en verbeteren, samen met de medewerkers uit die keten.
 
-Naast een verbeterde dienstverlening draagt het programma hiermee onder andere ook bij aan meer overzicht en een verbeterde sturing op processen en minder versnippering, betere terugvindbaarheid en herbruikbaarheid van informatie. 
+Bij de (her)inrichting is aansluitende technische ondersteuning een randvoorwaarde. Common Grond is hierbij de norm. De nieuwe tools, componenten en eventuele aansluitingen die hiervoor in ontwikkeling zijn vind je in deze Github repository.
 
-Indien een keten betere technische ondersteuning vraagt, dan kunnen hiervoor nieuwe componenten ontwikkeld worden. Dit gebeurt binnen het programma door het realisatieteam. Hierbij worden de [Common Ground principes](https://commonground.nl/cms/view/54476259/wat-is-common-ground) aangehouden. Meer informatie over de ontwikkelde componenten en eventuele aansluitingen hierop vind je in deze Github repository.
+Deze nieuwe manier van samenwerken maakt ons werk ook een stuk fijner en efficiënter:
 
-Het programma bestaat uit een begeleidingsteam, expertteam en realisatieteam en wordt aangestuurd door een programmamanager. 
+  -  Meer overzicht en een verbeterde stuurinformatie op processen
+  -  Minder versnippering van informatie
+  -  Minder tijd kwijt aan overtypen, opzoeken, archiveren en over-en-weer mailen
+  -  Meer tijd voor het échte werk
+
+Meer weten over de tools en componenten? Mail dan naar michelle.dautzenberg@utrecht.nl.
+
+Meer weten over Klantgericht samenwerken in Ketens? Mail dan naar m.hoekstra@utrecht.nl.
