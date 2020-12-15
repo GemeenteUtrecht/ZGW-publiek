@@ -155,6 +155,10 @@ Je kan hiervoor het volgende aanleveren:
 Merk op dat we standaard een applicatie in multi-replica uitrollen. Sommige applicaties
 hebben hiermee problemen (login-sessies, gedeelde file-system storage).
 
+## Autorisaties
+
+Met de Autorisatie-API kunnen we de autorisaties op applicatieniveau inrichten. Denk daarbij aan de zaaktypen en informatieobjecttypen die een taakapplicatie tot zijn beschikking heeft. Indien er echter een gedetaileerder autorisatiemodel nodig is (bijv. autorisaties op gebruikersniveau), dan dient dit te worden ingericht in de taakapplicatie. OpenZaak heeft die informatie niet. 
+
 ## Gebruik van testsets
 
 Bij het testen van koppelingen gebruiken we gegevens uit de officiële testsets, hiermee voorkomen we het (per ongeluk) gebruiken van iemands echte gegevens.
