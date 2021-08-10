@@ -31,6 +31,8 @@ Open Zaak biedt de volgende API's aan:
 Open Zaak _kan_ ook de Documenten API aanbieden, deze is echter uitgezet in Open Zaak.
 Zie [Documenten API](#documenten-api).
 
+Kijk hier voor een aantal Recipes voor API Calls: https://open-zaak.readthedocs.io/en/stable/client-development/recipes.html
+
 ### Documentatie
 
 De landingspagina van Open Zaak verwijst naar de individuele API-documentatiepagina's,
