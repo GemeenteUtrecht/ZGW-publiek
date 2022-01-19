@@ -9,15 +9,15 @@ die wensen aan te sluiten, testen en/of proof-of-concepts bouwen.
 
 ## Overzicht omgevingen
 
-Er is op dit moment één omgeving - namelijk de proeftuinomgeving. Deze is
+Er is op dit moment één ontwikkelomgeving. Deze is
 gekarakteriseerd door canonical URLs van services met de vorm
-`subdomain.utrechtproeftuin.nl`.
+`subdomain.cg-intern.ont.utrecht.nl`.
 
-Deze omgeving is een test/acceptatie-omgeving.
+Deze omgeving is een test-omgeving.
 
 ## Open Zaak
 
-Open Zaak is beschikbaar op https://openzaak.utrechtproeftuin.nl
+Open Zaak is beschikbaar op https://open-zaak.cg-intern.ont.utrecht.nl/
 
 ### API's
 
@@ -80,7 +80,7 @@ De signature moet gemaakt worden op basis van het `secret` volgens het HS256 alg
 
 **Credentials verkrijgen**
 
-Functioneel beheer (Frank, Jurjen en Michelle) kunnen deze in principe uitgeven.
+De functioneel beheerders van OpenZaak kunnen deze in principe uitgeven.
 
 Bij de kick-off zal dit één van de eerste zaken zijn die we regelen.
 
@@ -96,7 +96,7 @@ zelfs wenselijk om isolatie tussen projecten te borgen.
 Afstemmen welke zaaktypen nodig zijn zal waarschijnlijk met Functioneel Beheer gebeuren.
 
 ## Documenten API
-
+[nog aanpassen https://github.com/GemeenteUtrecht/ZGW/issues/1142 ]
 Momenteel staat de Documenten API gehost op https://drc.utrechtproeftuin.nl/. Dit is een
 implementatie met Alfresco als achterliggende storage. De langingspagina verwijst ook
 naar de API documentatie, gebruikte scopes en notificaties die verstuurd worden.
@@ -111,7 +111,7 @@ Alfresco en/of ontwikkelingen in Open Zaak.
 ## Open Notificaties
 
 Open Notificaties is de service verantwoorlijk voor het distribueren van notificaties.
-Deze staat gehost op https://nrc.utrechtproeftuin.nl, waar je ook de API documentatie
+Deze staat gehost op https://open-notificaties.cg-intern.ont.utrecht.nl/, waar je ook de API documentatie
 en scopes documentatie kan vinden.
 
 Open Zaak verstuurt notificaties als er mutaties uitgevoerd worden via de API's, en
